@@ -1,5 +1,5 @@
 /*
- * This code is just used to warm up. I changed nothing. Just compile
+ * This code is just used for warming up. I changed nothing. Just compile
  * and run it. 
  */
 #include    <wb.h>
